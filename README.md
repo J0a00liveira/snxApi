@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h1 align="center">:star: Minha primeira API com Node.js, Express.js e MySQL </h1> 
 
-<img alt="Github License" src="https://img.shields.io/github/license/J0a00liveira/snxApi">
+<img alt="Github License" src="https://img.shields.io/github/license/J0a00liveira/snxApi"> <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/J0a00liveira/snxApi" />
 
 > Objetivo da API :information_source:
 
